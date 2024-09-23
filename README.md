@@ -1,2 +1,2 @@
-# psdtohtml-project3
-psdtohtml-project3
+# PSD-TO-HTML-Create-Restaurant-website-RESPONSIVE
+PSD-TO-HTML-Create-Restaurant-website-RESPONSIVE
